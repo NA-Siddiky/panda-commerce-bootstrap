@@ -1,3 +1,27 @@
+.my-nav{
+    border-radius: .5em;
+}
 .container{
     border: 1px solid blue;
+}
+.my-card{
+    border: 0;
+    background-color: white;
+    border-radius: 5px;
+}
+.my-card-footer{
+    border: 0;
+    background-color: white;
+    border-radius: 5px;
+}
+.categories img{
+    width: 100px;
+}
+.my-slide .carousel-item{
+    background-color: #FCEAE8;
+    border-radius: 1em;
+}
+.my-banner-backgroung{
+    background-color: #FCEAE8;
+    border-radius: 1em;
 }
