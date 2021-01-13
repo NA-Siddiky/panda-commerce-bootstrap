@@ -3,7 +3,7 @@
 }
 .container{
     border: 1px solid blue;
-    max-width: 90%;
+    max-width: 100%;
 }
 .my-card{
     border: 0;
@@ -29,4 +29,14 @@
 .last-box{
     background-color: transparent;
 
+}
+@media (max-width:668px){
+    button{
+        display: block;
+        margin: 0;
+        width: 200px;
+    }
+    .btn-danger {
+        margin: 0 auto;
+    }    
 }
