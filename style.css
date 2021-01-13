@@ -3,6 +3,7 @@
 }
 .container{
     border: 1px solid blue;
+    max-width: 90%;
 }
 .my-card{
     border: 0;
@@ -24,4 +25,8 @@
 .my-banner-backgroung{
     background-color: #FCEAE8;
     border-radius: 1em;
+}
+.last-box{
+    background-color: transparent;
+
 }
